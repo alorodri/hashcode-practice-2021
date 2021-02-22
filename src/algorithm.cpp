@@ -5,7 +5,7 @@ void Algorithm::computeAlgorithm(PRIORIZE prio)
 
 	std::sort(file_utils::FileData::pizzas.begin(),
 		file_utils::FileData::pizzas.end(),
-		[&](Pizza p1, Pizza p2) {
+		[](Pizza& p1, Pizza& p2) {
 			return p1.uniqueIngredients.size() > p2.uniqueIngredients.size();
 		}
 	);
