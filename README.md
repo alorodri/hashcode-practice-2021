@@ -4,13 +4,13 @@
 [View PDF](https://github.com/alorodri/hashcode-practice-2021/blob/main/src/practice_round_2021_v3.pdf)
 
 ## Team
-We have a team called nevergoes, that participated in 2019 and 2020 competitions.
-My teammates are [@jaimuepe](https://github.com/jaimuepe) and @daniuuss
+Our Hashcode team "Nevergoes" is composed by daniuss, [jaimuepe](https://github.com/jaimuepe) and me. We've participated in the 2019 and 2020 editions/competitions.
 
 ## Algorithm
-Code is a bit messy, when I have more time I'll try to clean it a bit, also moving the writeOutput fcn to the fileutils.h
+The code is a bit messy, but i'll try to clean it up a little bit when i have more time. I also intend/want to move the writeOutput function to the fileutils.h.
 
-At first, I've worked on a algorithm that prioritizes pizzas for 4-people teams. Then, when teams of 4 are fullfilled, works sending pizzas for 3-teams and 2-teams respectively. Later was rewritten to work with different priorities that you can assign on the compute method call.
+Initially the algorithm tried to prioritize the deliveries for the 4-people teams, then the 3-people teams, and last the 2-people teams.
+Then I rewrote the algorithm so it could work with different criteria that can be assigned on the compute method.
 
 ## Score
 File name | Score
