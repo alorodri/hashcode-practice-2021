@@ -20,3 +20,11 @@ b_a_little_bit_of_everything|6,235
 c_many_ingredients|686,332,356
 d_many_pizzas|5,853,128
 e_many_teams|6,861,985
+
+## Compiler flags
+Program can be compiled with such flags:
+Flag|Usage
+----|-----
+_DEBUG|Toggles debug
+_DEBUGINFO|Shows debug messages tagged as INFO
+_DEBUGVERBOSE|Shows all debug messages
