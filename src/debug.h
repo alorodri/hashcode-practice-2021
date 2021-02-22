@@ -4,8 +4,6 @@
 #include <iostream>
 #include <sstream>
 
-#define _DEBUGINFO
-
 namespace hashcode_debug {
 
 #ifdef _DEBUG
