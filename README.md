@@ -16,10 +16,11 @@ At first, I've worked on a algorithm that prioritizes pizzas for 4-people teams.
 File name | Score
 ----------|-------
 a_example|65
-b_a_little_bit_of_everything|6,235
-c_many_ingredients|686,332,356
-d_many_pizzas|5,853,128
-e_many_teams|6,861,985
+b_a_little_bit_of_everything|6,235 points
+c_many_ingredients|686,332,356 points
+d_many_pizzas|5,853,128 points
+e_many_teams|6,861,985 points
+Total|699,053,769 points
 
 ## Compiler flags
 Program can be compiled with such flags:
