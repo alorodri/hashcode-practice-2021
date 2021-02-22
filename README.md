@@ -5,7 +5,7 @@
 
 ## Team
 We have a team called nevergoes, that participated in 2019 and 2020 competitions.
-My teammates are @jaimuepe and @daniuuss
+My teammates are [@jaimuepe](https://github.com/jaimuepe) and @daniuuss
 
 ## Algorithm
 Code is a bit messy, when I have more time I'll try to clean it a bit, also moving the writeOutput fcn to the fileutils.h
