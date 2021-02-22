@@ -15,7 +15,7 @@ Then I rewrote the algorithm so it could work with different criteria that can b
 ## Score
 File name | Score
 ----------|-------
-a_example|65
+a_example|65 points
 b_a_little_bit_of_everything|6,235 points
 c_many_ingredients|686,332,356 points
 d_many_pizzas|5,853,128 points
