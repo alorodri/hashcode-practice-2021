@@ -23,7 +23,7 @@ e_many_teams|6,861,985 points
 **Total**|**699,053,769 points**
 
 ## Compiler flags
-Program can be compiled with such flags:
+Program can be compiled with these flags:
 Flag|Usage
 ----|-----
 _DEBUG|Toggles debug
